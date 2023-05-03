@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KaiOffline
-- 👀 I’m interested in Games, Coding, Badminton, and Violin.
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Games, Coding, Content Creator Management, Server Management, Violin, and More.
 - 📫 How to reach me...
       Email: kai.townsend15@gmail.com
       
